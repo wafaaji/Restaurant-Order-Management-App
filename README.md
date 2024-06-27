@@ -9,10 +9,7 @@ Developed an application for restaurant employees and admins to streamline order
   - Manage restaurant offers
   - Monitor reservations and table availability
 
-- **Admin Functionality**: 
-  - Oversee restaurant operations
-  - Approve or reject restaurant listings
-  - Manage users, employees, and managers
+- **Connected With Restaurant-Oeder-Managment-App-Admin**
 
 ## Technologies Used
 
